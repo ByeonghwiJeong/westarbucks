@@ -18,6 +18,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'corsheaders',
     'health_check',
+    'products',
 ]
 
 MIDDLEWARE = [
